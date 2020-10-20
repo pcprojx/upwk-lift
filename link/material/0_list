@@ -1,1 +1,19 @@
+0_MATL: BRUSHED ALUM
+COLOR: 255,255,255
+DIFF: https://www.textures.com/system/gallery/photos/PBR%20Materials/133720/PBR0186_6_download600.jpg
+METAL: https://www.textures.com/system/gallery/photos/PBR%20Materials/133721/PBR0186_7_download600.jpg
+ROUGH: https://www.textures.com/system/gallery/photos/PBR%20Materials/133723/PBR0186_9_download600.jpg
+NORM: https://www.textures.com/system/gallery/photos/PBR%20Materials/133722/PBR0186_8_download600.jpg
+ALPHA: 1.0
 
+0_MATL: TROWELLED STUCCO
+COLOR: 255,255,255
+DIFF: https://www.textures.com/system/gallery/photos/PBR%20Materials/133219/PBR0091_7_download600.jpg
+METAL: 0.1
+ROUGH: https://www.textures.com/system/gallery/photos/PBR%20Materials/133223/PBR0091_11_download600.jpg
+NORM: https://www.textures.com/system/gallery/photos/PBR%20Materials/133222/PBR0091_10_download600.jpg
+ALPHA: 1.0
+
+0_MATL: RC PANEL
+
+0_MATL: POLYETHYLENE
