@@ -1,5 +1,5 @@
-https://i.ibb.co/4TJ8ZSw/Fujitec-Ceiling-Pattern-1.png
-https://i.ibb.co/sqzk0Ck/Fujitec-Ceiling-Pattern-2.png
-https://i.ibb.co/gvDGNSp/Fujitec-Ceiling-Pattern-3.png
-https://i.ibb.co/XXmhBFf/Fujitec-Ceiling-Pattern-4.png
-https://i.ibb.co/vz7T8mM/Fujitec-Ceiling-Pattern-5.png
+https://raw.githubusercontent.com/pcprojx/upwk-lift/main/texture/Fujitec_CeilingPattern_1.png
+https://raw.githubusercontent.com/pcprojx/upwk-lift/main/texture/Fujitec_CeilingPattern_2.png
+https://raw.githubusercontent.com/pcprojx/upwk-lift/main/texture/Fujitec_CeilingPattern_3.png
+https://raw.githubusercontent.com/pcprojx/upwk-lift/main/texture/Fujitec_CeilingPattern_4.png
+https://raw.githubusercontent.com/pcprojx/upwk-lift/main/texture/Fujitec_CeilingPattern_5.png
